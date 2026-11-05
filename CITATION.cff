@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this manuscript or its data, please cite the paper."
+title: "Universal scaling laws and density slopes for dark matter haloes"
+authors:
+  - family-names: Xu
+    given-names: Zhijie (Jay)
+    affiliation: Pacific Northwest National Laboratory
+    orcid: "https://orcid.org/0000-0003-0459-4531"
+license: CC-BY-4.0
+date-released: 2026-11-05
+version: "2.0"
+keywords: ["dark matter", "energy cascade", "rotation curves", "halo density profile", "core-cusp", "self-interacting dark matter", "scaling laws"]
+preferred-citation:
+  type: article
+  title: "Universal scaling laws and density slopes for dark matter haloes"
+  authors:
+    - family-names: Xu
+      given-names: Zhijie (Jay)
+  journal: "Scientific Reports"
+  volume: 13
+  start: 4165
+  year: 2023
+  doi: "10.1038/s41598-023-31083-z"
+  url: "https://doi.org/10.1038/s41598-023-31083-z"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23989405"
+  - type: other
+    value: "arXiv:2209.03313"

@@ -1,0 +1,20 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,
+# Updated,11/2026,,,,
+#Name,Fig. 2 of the paper: plotted data,,,,
+#Ref. [1] This paper,https://doi.org/10.1038/s41598-023-31083-z,"Z. Xu 2023, Sci. Rep. 13, 4165: Universal scaling laws and density slopes for dark matter haloes",,,
+#Note,source: author MATLAB figure Create_Latex_figures/paper_figs/Dark_matter_particle_mass/Fig1.fig (md5 f1b1055625a78c4aebd062b9341b6a88),,,,
+#Note,axes labels: a; (KM/s)^2,,,,
+#Note,"three series K_p(a), -P_y(a), |E_y(a)| identical to the PDF (10, 10, 9 points); .fig saved 2022-01-23 01:02 UTC, PDF created 2022-05-05 21:21 UTC; the PDF arrow label ""a^{3/2}"" is not a series of the .fig",,,,
+,,,,,
+,,,,,
+x[0] K_p(a),y[0] K_p(a),x[1] -P_y(a),y[1] -P_y(a),x[2] |E_y(a)|=|K_p(a)+P_y(a)|,y[2] |E_y(a)|=|K_p(a)+P_y(a)|
+0.0909090909,11216,0.0909090909,0,0.166666667,1702.47123
+0.166666667,21063,0.166666667,22765.4712,0.25,10808.4007
+0.25,33127,0.25,43935.4007,0.333333333,18775.9073
+0.333333333,47073,0.333333333,65848.9073,0.4,25343.8801
+0.4,59856,0.4,85199.8801,0.5,35427.1386
+0.5,80243,0.5,115670.139,0.666666667,52466.0067
+0.666666667,115650,0.666666667,168116.007,0.769230769,63095.772
+0.769230769,138050,0.769230769,201145.772,0.909090909,77865.3525
+0.909090909,168760,0.909090909,246625.352,1,87738.5185
+1,188610,1,276348.519,NaN,NaN

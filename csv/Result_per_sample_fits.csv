@@ -1,0 +1,21 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,,
+# Updated,11/2026,,,,,,,
+#Name,Least-squares fits log10 rho_s = a + b log10 r_s per sample and for the pools (code/pipeline/s03_rotation_curves.py),,,,,,,
+#Ref. [1] This paper,https://doi.org/10.1038/s41598-023-31083-z,"Z. Xu 2023, Sci. Rep. 13, 4165",,,,,,
+#Ref. [2] SPARC halo fits,https://doi.org/10.3847/1538-4365/ab700e,"Li, Lelli, McGaugh & Schombert 2020, ApJS 247, 31",,,,,,
+#Ref. [3] SPARC,https://doi.org/10.3847/0004-6256/152/6/157,"Lelli, McGaugh & Schombert 2016, AJ 152, 157",,,,,,
+#Ref. [4] DiskMass Survey VII,https://doi.org/10.1051/0004-6361/201321390,"Martinsson et al. 2013, A&A 557, A131",,,,,,
+#Ref. [5] Sofue 2016,https://doi.org/10.1093/pasj/psv103,"Sofue 2016, PASJ 68, 2",,,,,,
+,,,,,,,,
+,,,,,,,,
+sample,n,slope,slope_se,intercept,pearson_r,R2,rms_dex,trend of -eps_u with r_s (d log eps / d log r_s)
+SPARC NFW,153,-1.0662348,0.0835934722,7.62732925,-0.720161866,0.518633113,0.35574726,0.4006478
+SPARC pISO,153,-1.33617916,0.0649554182,8.00799572,-0.858489623,0.737004433,0.394724785,-0.00426873618
+DMS NFW,30,-1.68987333,0.0685508087,8.58067838,-0.977728733,0.955953475,0.142762308,-0.53480999
+DMS pISO,30,-1.77339218,0.0701732813,8.50842638,-0.978774354,0.957999237,0.143282778,-0.660088275
+SOFUE NFW,43,-1.55916184,0.0502723102,8.64153461,-0.979345743,0.959118085,0.113679923,-0.338742761
+pooled (Fig. 6),409,-1.3685395,0.0316370753,8.09535529,-0.906284061,0.821350799,0.380288072,-0.0528092475
+NFW fits only,226,-1.28108578,0.0675595461,7.99408575,-0.784955715,0.616155474,0.358758965,NaN
+pISO fits only,183,-1.44223512,0.061424027,8.11646649,-0.867661675,0.752836782,0.402189099,NaN
+SPARC Einasto fits,153,-1.05999942,0.0851834648,7.79785241,-0.711539079,0.506287861,0.335420793,NaN
+pool with Einasto for SPARC NFW,409,-1.30854484,0.0321915268,8.09956376,-0.895746567,0.802361912,0.362778248,NaN
