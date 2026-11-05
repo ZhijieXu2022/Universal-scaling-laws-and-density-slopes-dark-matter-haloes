@@ -2,7 +2,7 @@
 
 Z. Xu (2023), *Universal scaling laws and density slopes for dark matter haloes*, Scientific Reports **13**, 4165, [doi:10.1038/s41598-023-31083-z](https://doi.org/10.1038/s41598-023-31083-z); arXiv: [2209.03313](https://arxiv.org/abs/2209.03313).
 
-This repository holds the manuscript and the plotted data behind the figures and tables of the paper. The same files are archived on Zenodo: [doi:10.5281/zenodo.23989405](https://doi.org/10.5281/zenodo.23989405) ([https://zenodo.org/records/23989405](https://zenodo.org/records/23989405)).
+This repository holds the manuscript and the plotted data behind the figures and tables of the paper. The same files are archived on Zenodo: [doi:10.5281/zenodo.23989405](https://doi.org/10.5281/zenodo.23989405).
 
 ## Major findings (cosmological N-body simulation and galaxy rotation curves):
 
